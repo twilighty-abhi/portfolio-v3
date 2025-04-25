@@ -52,7 +52,7 @@ export default function Home() {
 
               <section className="space-y-12">
                 <p className="text-base text-gray-600 leading-relaxed">
-                  i'm meowww
+                  i&apos;m meowww
                 </p>
 
                 <div>
